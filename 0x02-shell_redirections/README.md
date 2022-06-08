@@ -1,2 +1,1 @@
-script that displays a confused smiley "(Ôo)'
-
+script that displays the third line of the file iacta
